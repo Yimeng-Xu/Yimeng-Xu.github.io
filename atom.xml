@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Yimeng&#39;s Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yimeng-xu.github.io/"/>
   <updated>2019-08-29T01:08:40.828Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yimeng-xu.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Yimeng Xu</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/28/hello-world/"/>
-    <id>http://yoursite.com/2019/08/28/hello-world/</id>
+    <link href="https://yimeng-xu.github.io/2019/08/28/hello-world/"/>
+    <id>https://yimeng-xu.github.io/2019/08/28/hello-world/</id>
     <published>2019-08-29T01:08:40.827Z</published>
     <updated>2019-08-29T01:08:40.828Z</updated>
     
