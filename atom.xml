@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yimeng-xu.github.io/"/>
-  <updated>2019-08-29T01:08:40.828Z</updated>
+  <updated>2019-09-03T19:15:45.357Z</updated>
   <id>https://yimeng-xu.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>String Similarity</title>
+    <link href="https://yimeng-xu.github.io/2019/09/03/String-Similarity/"/>
+    <id>https://yimeng-xu.github.io/2019/09/03/String-Similarity/</id>
+    <published>2019-09-03T19:13:47.000Z</published>
+    <updated>2019-09-03T19:15:45.357Z</updated>
+    
+    <content type="html"><![CDATA[<p>I my recent work, I was challenged by a problem. This problem requires me to find out two data records that match each other the best. If </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I my recent work, I was challenged by a problem. This problem requires me to find out two data records that match each other the best. If
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
